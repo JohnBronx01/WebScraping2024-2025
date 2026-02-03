@@ -1,0 +1,1201 @@
+State,Description,Value
+AL,Alabama,11.59
+AL,Alabama,13.16
+AL,Alabama,7.72
+AL,Alabama,
+AL,Alabama,14.25
+AL,Alabama,0
+AL,Alabama,11.84
+AL,Alabama,13.57
+AL,Alabama,7.23
+AL,Alabama,
+AL,Alabama,15.12
+AL,Alabama,0
+AL,Alabama,11.47
+AL,Alabama,13.16
+AL,Alabama,7.1
+AL,Alabama,
+AL,Alabama,14.63
+AL,Alabama,0
+AL,Alabama,10.18
+AL,Alabama,11.84
+AL,Alabama,6.33
+AL,Alabama,
+AL,Alabama,12.96
+AL,Alabama,0
+AK,Alaska,20.73
+AK,Alaska,20.06
+AK,Alaska,18.43
+AK,Alaska,
+AK,Alaska,23.1
+AK,Alaska,0
+AK,Alaska,22.06
+AK,Alaska,21.44
+AK,Alaska,19.29
+AK,Alaska,
+AK,Alaska,24.71
+AK,Alaska,0
+AK,Alaska,21.41
+AK,Alaska,20.87
+AK,Alaska,18.7
+AK,Alaska,
+AK,Alaska,23.9
+AK,Alaska,0
+AK,Alaska,20.02
+AK,Alaska,19.61
+AK,Alaska,16.85
+AK,Alaska,
+AK,Alaska,22.55
+AK,Alaska,0
+AZ,Arizona,11.31
+AZ,Arizona,10.8
+AZ,Arizona,7.86
+AZ,Arizona,
+AZ,Arizona,13.02
+AZ,Arizona,9.62
+AZ,Arizona,12.84
+AZ,Arizona,12.36
+AZ,Arizona,8.04
+AZ,Arizona,
+AZ,Arizona,14.95
+AZ,Arizona,10.95
+AZ,Arizona,12.19
+AZ,Arizona,11.79
+AZ,Arizona,8.11
+AZ,Arizona,
+AZ,Arizona,14.02
+AZ,Arizona,10.01
+AZ,Arizona,10.73
+AZ,Arizona,10.33
+AZ,Arizona,6.79
+AZ,Arizona,
+AZ,Arizona,12.54
+AZ,Arizona,9.33
+AR,Arkansas,9.91
+AR,Arkansas,10.26
+AR,Arkansas,7.38
+AR,Arkansas,
+AR,Arkansas,12.05
+AR,Arkansas,15.48
+AR,Arkansas,9.54
+AR,Arkansas,10.22
+AR,Arkansas,6.55
+AR,Arkansas,
+AR,Arkansas,12.24
+AR,Arkansas,9.73
+AR,Arkansas,10.34
+AR,Arkansas,6.87
+AR,Arkansas,
+AR,Arkansas,12.25
+AR,Arkansas,14.93
+AR,Arkansas,9.1
+AR,Arkansas,9.56
+AR,Arkansas,6.57
+AR,Arkansas,
+AR,Arkansas,11.27
+AR,Arkansas,13.56
+AR,Arkansas,13.3
+CA,California,22.33
+CA,California,21.81
+CA,California,17.09
+CA,California,
+CA,California,25.84
+CA,California,13.76
+CA,California,24.87
+CA,California,23.91
+CA,California,18.64
+CA,California,
+CA,California,29.51
+CA,California,13.01
+CA,California,11.79
+CA,California,19.65
+CA,California,19.18
+CA,California,14.82
+CA,California,
+CA,California,22.82
+CA,California,27
+CA,California,25.29
+CA,California,21.98
+CA,California,
+CA,California,31.86
+CA,California,16.22
+CO,Colorado,11.75
+CO,Colorado,11.58
+CO,Colorado,8.63
+CO,Colorado,
+CO,Colorado,14.19
+CO,Colorado,9.91
+CO,Colorado,11.76
+CO,Colorado,11.64
+CO,Colorado,8.5
+CO,Colorado,
+CO,Colorado,14.3
+CO,Colorado,13.23
+CO,Colorado,10.9
+CO,Colorado,10.84
+CO,Colorado,8.01
+CO,Colorado,
+CO,Colorado,13.07
+CO,Colorado,9.44
+CO,Colorado,12.22
+CO,Colorado,11.84
+CO,Colorado,8.78
+CO,Colorado,
+CO,Colorado,15.06
+CO,Colorado,9.33
+CT,Connecticut,21.08
+CT,Connecticut,18.54
+CT,Connecticut,15.07
+CT,Connecticut,
+CT,Connecticut,24.61
+CT,Connecticut,18.07
+CT,Connecticut,24.24
+CT,Connecticut,19.99
+CT,Connecticut,15.69
+CT,Connecticut,
+CT,Connecticut,29.88
+CT,Connecticut,21.55
+CT,Connecticut,21.91
+CT,Connecticut,12.5
+CT,Connecticut,18.32
+CT,Connecticut,16.46
+CT,Connecticut,9.63
+CT,Connecticut,
+CT,Connecticut,24.47
+CT,Connecticut,21.35
+CT,Connecticut,17.3
+CT,Connecticut,
+CT,Connecticut,28.76
+CT,Connecticut,17.77
+DE,Delaware,11.83
+DE,Delaware,10.98
+DE,Delaware,8.79
+DE,Delaware,
+DE,Delaware,13.71
+DE,Delaware,0
+DE,Delaware,12.85
+DE,Delaware,11.83
+DE,Delaware,7.85
+DE,Delaware,
+DE,Delaware,15.73
+DE,Delaware,0
+DE,Delaware,10.5
+DE,Delaware,9.48
+DE,Delaware,7.6
+DE,Delaware,
+DE,Delaware,12.52
+DE,Delaware,0
+DE,Delaware,13.44
+DE,Delaware,12.11
+DE,Delaware,8.23
+DE,Delaware,
+DE,Delaware,16.45
+DE,Delaware,0
+FL,Florida,12.51
+FL,Florida,11.19
+FL,Florida,9.16
+FL,Florida,
+FL,Florida,13.9
+FL,Florida,10.19
+FL,Florida,13.53
+FL,Florida,11.95
+FL,Florida,9.39
+FL,Florida,11.9
+FL,Florida,8.31
+FL,Florida,10.67
+FL,Florida,9.51
+FL,Florida,7.65
+FL,Florida,
+FL,Florida,12.57
+FL,Florida,11.1
+FL,Florida,8.52
+FL,Florida,
+FL,Florida,14.15
+FL,Florida,10.87
+FL,Florida,
+FL,Florida,15.21
+FL,Florida,11.33
+GA,Georgia,12
+GA,Georgia,12.1
+GA,Georgia,8.65
+GA,Georgia,10.43
+GA,Georgia,10.61
+GA,Georgia,6.49
+GA,Georgia,
+GA,Georgia,12.51
+GA,Georgia,6.61
+GA,Georgia,
+GA,Georgia,13.8
+GA,Georgia,9.33
+GA,Georgia,11.49
+GA,Georgia,11.09
+GA,Georgia,7.2
+GA,Georgia,
+GA,Georgia,14.14
+GA,Georgia,7.64
+GA,Georgia,11.06
+GA,Georgia,10.7
+GA,Georgia,6.88
+GA,Georgia,
+GA,Georgia,13.69
+GA,Georgia,7.29
+HI,Hawaii,30.31
+HI,Hawaii,30.88
+HI,Hawaii,27.12
+HI,Hawaii,
+HI,Hawaii,33.49
+HI,Hawaii,0
+HI,Hawaii,39.72
+HI,Hawaii,40.18
+HI,Hawaii,36.71
+HI,Hawaii,
+HI,Hawaii,43.03
+HI,Hawaii,0
+HI,Hawaii,38.17
+HI,Hawaii,38.84
+HI,Hawaii,34.13
+HI,Hawaii,
+HI,Hawaii,42.72
+HI,Hawaii,0
+HI,Hawaii,38.6
+HI,Hawaii,39.03
+HI,Hawaii,35.28
+HI,Hawaii,
+HI,Hawaii,42.39
+HI,Hawaii,0
+ID,Idaho,8.17
+ID,Idaho,7.89
+ID,Idaho,6.39
+ID,Idaho,
+ID,Idaho,10.16
+ID,Idaho,0
+ID,Idaho,8.51
+ID,Idaho,8.27
+ID,Idaho,6.71
+ID,Idaho,
+ID,Idaho,10.37
+ID,Idaho,0
+ID,Idaho,9.52
+ID,Idaho,9.2
+ID,Idaho,7.69
+ID,Idaho,
+ID,Idaho,11.54
+ID,Idaho,0
+ID,Idaho,9.08
+ID,Idaho,8.78
+ID,Idaho,7.17
+ID,Idaho,
+ID,Idaho,11.05
+ID,Idaho,0
+IL,Illinois,10.14
+IL,Illinois,9.65
+IL,Illinois,7.3
+IL,Illinois,
+IL,Illinois,13.18
+IL,Illinois,6.42
+IL,Illinois,11.94
+IL,Illinois,11.32
+IL,Illinois,8.57
+IL,Illinois,
+IL,Illinois,15.65
+IL,Illinois,7.21
+IL,Illinois,12.33
+IL,Illinois,11.77
+IL,Illinois,9.16
+IL,Illinois,
+IL,Illinois,15.92
+IL,Illinois,7.67
+IL,Illinois,11.75
+IL,Illinois,11.24
+IL,Illinois,8.2
+IL,Illinois,
+IL,Illinois,15.71
+IL,Illinois,6.9
+IN,Indiana,10.36
+IN,Indiana,11.58
+IN,Indiana,7.39
+IN,Indiana,
+IN,Indiana,13.37
+IN,Indiana,10.05
+IN,Indiana,11.66
+IN,Indiana,12.86
+IN,Indiana,8.65
+IN,Indiana,
+IN,Indiana,14.59
+IN,Indiana,13.03
+IN,Indiana,11.36
+IN,Indiana,12.62
+IN,Indiana,7.99
+IN,Indiana,
+IN,Indiana,14.84
+IN,Indiana,12.31
+IN,Indiana,11.49
+IN,Indiana,12.55
+IN,Indiana,8.24
+IN,Indiana,
+IN,Indiana,14.94
+IN,Indiana,12.73
+IA,Iowa,6.91
+IA,Iowa,
+IA,Iowa,13.31
+IA,Iowa,0
+IA,Iowa,9.13
+IA,Iowa,10.17
+IA,Iowa,6.63
+IA,Iowa,
+IA,Iowa,12.73
+IA,Iowa,0
+IA,Iowa,9.57
+IA,Iowa,10.55
+IA,Iowa,7.06
+IA,Iowa,
+IA,Iowa,13.15
+IA,Iowa,0
+IA,Iowa,9.43
+IA,Iowa,10.35
+IA,Iowa,6.85
+IA,Iowa,
+IA,Iowa,13.55
+IA,Iowa,0
+IA,Iowa,9.42
+IA,Iowa,10.33
+KS,Kansas,10.8
+KS,Kansas,10.85
+KS,Kansas,7.64
+KS,Kansas,
+KS,Kansas,13.38
+KS,Kansas,0
+KS,Kansas,12.98
+KS,Kansas,0
+KS,Kansas,10.47
+KS,Kansas,10.52
+KS,Kansas,7.38
+KS,Kansas,
+KS,Kansas,11.47
+KS,Kansas,11.51
+KS,Kansas,8.3
+KS,Kansas,
+KS,Kansas,13.99
+KS,Kansas,0
+KS,Kansas,11.25
+KS,Kansas,11.23
+KS,Kansas,7.67
+KS,Kansas,
+KS,Kansas,14.22
+KS,Kansas,0
+KY,Kentucky,9.96
+KY,Kentucky,11.38
+KY,Kentucky,6.55
+KY,Kentucky,
+KY,Kentucky,12.65
+KY,Kentucky,0
+KY,Kentucky,9.12
+KY,Kentucky,10.75
+KY,Kentucky,5.95
+KY,Kentucky,
+KY,Kentucky,11.5
+KY,Kentucky,0
+KY,Kentucky,10.51
+KY,Kentucky,11.78
+KY,Kentucky,7.41
+KY,Kentucky,
+KY,Kentucky,12.91
+KY,Kentucky,0
+KY,Kentucky,10.18
+KY,Kentucky,11.63
+KY,Kentucky,6.53
+KY,Kentucky,
+KY,Kentucky,12.98
+KY,Kentucky,0
+LA,Louisiana,8.91
+LA,Louisiana,10.45
+LA,Louisiana,5.88
+LA,Louisiana,
+LA,Louisiana,11.55
+LA,Louisiana,11
+LA,Louisiana,8.82
+LA,Louisiana,10.23
+LA,Louisiana,6.21
+LA,Louisiana,
+LA,Louisiana,11.02
+LA,Louisiana,10.77
+LA,Louisiana,10.41
+LA,Louisiana,11.93
+LA,Louisiana,7.54
+LA,Louisiana,
+LA,Louisiana,12.93
+LA,Louisiana,12.45
+LA,Louisiana,8.68
+LA,Louisiana,10.37
+LA,Louisiana,5.57
+LA,Louisiana,
+LA,Louisiana,11.64
+LA,Louisiana,11.54
+ME,Maine,20.84
+ME,Maine,17.88
+ME,Maine,12.3
+ME,Maine,
+ME,Maine,27.42
+ME,Maine,0
+ME,Maine,13.96
+ME,Maine,12.9
+ME,Maine,9.55
+ME,Maine,
+ME,Maine,17.02
+ME,Maine,0
+ME,Maine,17.44
+ME,Maine,15.4
+ME,Maine,11.03
+ME,Maine,
+ME,Maine,22.44
+ME,Maine,0
+ME,Maine,19.62
+ME,Maine,18.35
+ME,Maine,12.71
+ME,Maine,
+ME,Maine,23.89
+ME,Maine,0
+MD,Maryland,14.34
+MD,Maryland,12.77
+MD,Maryland,9.94
+MD,Maryland,
+MD,Maryland,16.6
+MD,Maryland,11.23
+MD,Maryland,11.48
+MD,Maryland,10.26
+MD,Maryland,8.46
+MD,Maryland,
+MD,Maryland,13.12
+MD,Maryland,7.58
+MD,Maryland,13.32
+MD,Maryland,12.65
+MD,Maryland,10.01
+MD,Maryland,
+MD,Maryland,14.46
+MD,Maryland,9.45
+MD,Maryland,15.08
+MD,Maryland,12.99
+MD,Maryland,10.06
+MD,Maryland,
+MD,Maryland,17.88
+MD,Maryland,11.55
+MA,Massachusetts,23.21
+MA,Massachusetts,19.62
+MA,Massachusetts,17.88
+MA,Massachusetts,
+MA,Massachusetts,29.61
+MA,Massachusetts,7.15
+MA,Massachusetts,19.06
+MA,Massachusetts,16.99
+MA,Massachusetts,15.18
+MA,Massachusetts,
+MA,Massachusetts,22.89
+MA,Massachusetts,6.51
+MA,Massachusetts,21.27
+MA,Massachusetts,18.67
+MA,Massachusetts,17.06
+MA,Massachusetts,
+MA,Massachusetts,25.97
+MA,Massachusetts,7.08
+MA,Massachusetts,23.98
+MA,Massachusetts,20.96
+MA,Massachusetts,18.13
+MA,Massachusetts,
+MA,Massachusetts,29.35
+MA,Massachusetts,9.22
+MI,Michigan,13.68
+MI,Michigan,13.4
+MI,Michigan,8.16
+MI,Michigan,
+MI,Michigan,18.84
+MI,Michigan,13.67
+MI,Michigan,12.93
+MI,Michigan,12.31
+MI,Michigan,7.69
+MI,Michigan,
+MI,Michigan,17.54
+MI,Michigan,12.3
+MI,Michigan,13.99
+MI,Michigan,8.27
+MI,Michigan,
+MI,Michigan,19.29
+MI,Michigan,14.09
+MI,Michigan,13.2
+MI,Michigan,12.55
+MI,Michigan,8.33
+MI,Michigan,
+MI,Michigan,17.86
+MI,Michigan,12.35
+MI,Michigan,14.16
+MN,Minnesota,12.21
+MN,Minnesota,12.39
+MN,Minnesota,9.2
+MN,Minnesota,
+MN,Minnesota,14.73
+MN,Minnesota,12.35
+MN,Minnesota,11.08
+MN,Minnesota,11.22
+MN,Minnesota,8.29
+MN,Minnesota,
+MN,Minnesota,13.5
+MN,Minnesota,10.38
+MN,Minnesota,12.36
+MN,Minnesota,12.22
+MN,Minnesota,9.14
+MN,Minnesota,
+MN,Minnesota,15.42
+MN,Minnesota,12.71
+MN,Minnesota,12.04
+MN,Minnesota,12.3
+MN,Minnesota,9.25
+MN,Minnesota,
+MN,Minnesota,14.25
+MN,Minnesota,12.29
+MS,Mississippi,10.95
+MS,Mississippi,12.37
+MS,Mississippi,6.96
+MS,Mississippi,
+MS,Mississippi,13.23
+MS,Mississippi,0
+MS,Mississippi,9.5
+MS,Mississippi,10.81
+MS,Mississippi,5.95
+MS,Mississippi,
+MS,Mississippi,11.56
+MS,Mississippi,0
+MS,Mississippi,10.82
+MS,Mississippi,12.08
+MS,Mississippi,6.73
+MS,Mississippi,
+MS,Mississippi,13.29
+MS,Mississippi,0
+MS,Mississippi,10.36
+MS,Mississippi,11.76
+MS,Mississippi,6.71
+MS,Mississippi,
+MS,Mississippi,12.41
+MS,Mississippi,0
+MO,Missouri,10.87
+MO,Missouri,10.14
+MO,Missouri,7.9
+MO,Missouri,
+MO,Missouri,12.58
+MO,Missouri,9.77
+MO,Missouri,
+MO,Missouri,11.41
+MO,Missouri,8.23
+MO,Missouri,7.11
+MO,Missouri,9.85
+MO,Missouri,9.17
+MO,Missouri,11.09
+MO,Missouri,10.29
+MO,Missouri,7.9
+MO,Missouri,
+MO,Missouri,12.91
+MO,Missouri,9.94
+MO,Missouri,10.26
+MO,Missouri,9.55
+MO,Missouri,7.67
+MO,Missouri,
+MO,Missouri,11.74
+MO,Missouri,8.97
+MT,Montana,10.97
+MT,Montana,12.11
+MT,Montana,7.8
+MT,Montana,
+MT,Montana,12.54
+MT,Montana,0
+MT,Montana,9.5
+MT,Montana,10.54
+MT,Montana,6.24
+MT,Montana,
+MT,Montana,11.22
+MT,Montana,0
+MT,Montana,10.84
+MT,Montana,11.8
+MT,Montana,7.64
+MT,Montana,
+MT,Montana,12.67
+MT,Montana,0
+MT,Montana,9.97
+MT,Montana,10.68
+MT,Montana,7.49
+MT,Montana,
+MT,Montana,11.33
+MT,Montana,0
+NE,Nebraska,9.14
+NE,Nebraska,8.76
+NE,Nebraska,7.63
+NE,Nebraska,
+NE,Nebraska,11.2
+NE,Nebraska,0
+NE,Nebraska,
+NE,Nebraska,10.75
+NE,Nebraska,0
+NE,Nebraska,8.84
+NE,Nebraska,8.81
+NE,Nebraska,7.26
+NE,Nebraska,9.19
+NE,Nebraska,8.7
+NE,Nebraska,7.53
+NE,Nebraska,
+NE,Nebraska,11.74
+NE,Nebraska,0
+NE,Nebraska,8.83
+NE,Nebraska,8.82
+NE,Nebraska,7.21
+NE,Nebraska,
+NE,Nebraska,10.79
+NE,Nebraska,0
+NV,Nevada,13.09
+NV,Nevada,11.91
+NV,Nevada,10.36
+NV,Nevada,
+NV,Nevada,16.67
+NV,Nevada,12.75
+NV,Nevada,8.58
+NV,Nevada,7.77
+NV,Nevada,6.02
+NV,Nevada,
+NV,Nevada,11.49
+NV,Nevada,7.72
+NV,Nevada,10.47
+NV,Nevada,8.49
+NV,Nevada,
+NV,Nevada,15
+NV,Nevada,10.66
+NV,Nevada,11.47
+NV,Nevada,10.14
+NV,Nevada,8.5
+NV,Nevada,
+NV,Nevada,13.78
+NV,Nevada,9.74
+NV,Nevada,10.94
+NH,New Hampshire,22.96
+NH,New Hampshire,20.4
+NH,New Hampshire,15.76
+NH,New Hampshire,
+NH,New Hampshire,28.15
+NH,New Hampshire,0
+NH,New Hampshire,17.37
+NH,New Hampshire,16.13
+NH,New Hampshire,13.81
+NH,New Hampshire,
+NH,New Hampshire,19.85
+NH,New Hampshire,0
+NH,New Hampshire,20.59
+NH,New Hampshire,19.45
+NH,New Hampshire,16.2
+NH,New Hampshire,
+NH,New Hampshire,23.33
+NH,New Hampshire,0
+NH,New Hampshire,21.07
+NH,New Hampshire,18.69
+NH,New Hampshire,15.15
+NH,New Hampshire,
+NH,New Hampshire,25.46
+NH,New Hampshire,0
+NJ,New Jersey,15.27
+NJ,New Jersey,14
+NJ,New Jersey,11.68
+NJ,New Jersey,
+NJ,New Jersey,17.7
+NJ,New Jersey,12.22
+NJ,New Jersey,14.01
+NJ,New Jersey,12.69
+NJ,New Jersey,10.7
+NJ,New Jersey,
+NJ,New Jersey,16.35
+NJ,New Jersey,9.24
+NJ,New Jersey,16.4
+NJ,New Jersey,14.78
+NJ,New Jersey,12.02
+NJ,New Jersey,
+NJ,New Jersey,19.38
+NJ,New Jersey,10.92
+NJ,New Jersey,14.8
+NJ,New Jersey,13.75
+NJ,New Jersey,12.12
+NJ,New Jersey,
+NJ,New Jersey,16.74
+NJ,New Jersey,12.9
+NM,New Mexico,9.47
+NM,New Mexico,10.68
+NM,New Mexico,5.75
+NM,New Mexico,
+NM,New Mexico,13.85
+NM,New Mexico,6.16
+NM,New Mexico,
+NM,New Mexico,13.52
+NM,New Mexico,0
+NM,New Mexico,9.79
+NM,New Mexico,10.8
+NM,New Mexico,9.3
+NM,New Mexico,10.65
+NM,New Mexico,5.52
+NM,New Mexico,
+NM,New Mexico,14.37
+NM,New Mexico,0
+NM,New Mexico,10.02
+NM,New Mexico,11.07
+NM,New Mexico,6.56
+NM,New Mexico,
+NM,New Mexico,13.84
+NM,New Mexico,0
+NM,New Mexico,0
+NY,New York,16.11
+NY,New York,16.07
+NY,New York,6.34
+NY,New York,
+NY,New York,19.48
+NY,New York,12.67
+NY,New York,19.66
+NY,New York,18.83
+NY,New York,9.11
+NY,New York,
+NY,New York,24.37
+NY,New York,14.7
+NY,New York,18.33
+NY,New York,18.19
+NY,New York,7.55
+NY,New York,
+NY,New York,22.08
+NY,New York,13.84
+NY,New York,18.28
+NY,New York,18.01
+NY,New York,6.87
+NY,New York,
+NY,New York,22.24
+NY,New York,15.7
+NC,North Carolina,9.29
+NC,North Carolina,8.5
+NC,North Carolina,6.14
+NC,North Carolina,
+NC,North Carolina,11.32
+NC,North Carolina,7.85
+NC,North Carolina,11.62
+NC,North Carolina,10.56
+NC,North Carolina,7.69
+NC,North Carolina,
+NC,North Carolina,14.12
+NC,North Carolina,10.28
+NC,North Carolina,9.6
+NC,North Carolina,8.75
+NC,North Carolina,6.54
+NC,North Carolina,
+NC,North Carolina,11.62
+NC,North Carolina,7.61
+NC,North Carolina,10.61
+NC,North Carolina,9.67
+NC,North Carolina,7.15
+NC,North Carolina,
+NC,North Carolina,12.93
+NC,North Carolina,8.86
+ND,North Dakota,7.37
+ND,North Dakota,
+ND,North Dakota,10.85
+ND,North Dakota,0
+ND,North Dakota,8.65
+ND,North Dakota,9.17
+ND,North Dakota,8
+ND,North Dakota,7.21
+ND,North Dakota,7.39
+ND,North Dakota,
+ND,North Dakota,11.49
+ND,North Dakota,0
+ND,North Dakota,8.42
+ND,North Dakota,8.45
+ND,North Dakota,7.28
+ND,North Dakota,
+ND,North Dakota,10.92
+ND,North Dakota,0
+ND,North Dakota,8.03
+ND,North Dakota,7.38
+ND,North Dakota,7.37
+ND,North Dakota,
+ND,North Dakota,11.01
+ND,North Dakota,0
+OH,Ohio,9.76
+OH,Ohio,9.75
+OH,Ohio,6.55
+OH,Ohio,
+OH,Ohio,12.77
+OH,Ohio,7.41
+OH,Ohio,11.38
+OH,Ohio,10.78
+OH,Ohio,7.16
+OH,Ohio,
+OH,Ohio,16.07
+OH,Ohio,7.09
+OH,Ohio,10.64
+OH,Ohio,10.39
+OH,Ohio,7.45
+OH,Ohio,
+OH,Ohio,13.85
+OH,Ohio,8.54
+OH,Ohio,11.04
+OH,Ohio,10.75
+OH,Ohio,7.03
+OH,Ohio,
+OH,Ohio,15.38
+OH,Ohio,5.91
+OK,Oklahoma,8.7
+OK,Oklahoma,5.5
+OK,Oklahoma,
+OK,Oklahoma,11
+OK,Oklahoma,0
+OK,Oklahoma,8.52
+OK,Oklahoma,9.08
+OK,Oklahoma,8.94
+OK,Oklahoma,5.78
+OK,Oklahoma,
+OK,Oklahoma,12.24
+OK,Oklahoma,0
+OK,Oklahoma,10.05
+OK,Oklahoma,10.34
+OK,Oklahoma,6.96
+OK,Oklahoma,
+OK,Oklahoma,12.44
+OK,Oklahoma,0
+OK,Oklahoma,9.3
+OK,Oklahoma,9.34
+OK,Oklahoma,6.26
+OK,Oklahoma,
+OK,Oklahoma,12.08
+OK,Oklahoma,0
+OR,Oregon,8.95
+OR,Oregon,9.1
+OR,Oregon,5.97
+OR,Oregon,
+OR,Oregon,11.37
+OR,Oregon,9.71
+OR,Oregon,11.36
+OR,Oregon,10.81
+OR,Oregon,7.92
+OR,Oregon,
+OR,Oregon,14.63
+OR,Oregon,12.54
+OR,Oregon,9.26
+OR,Oregon,9.35
+OR,Oregon,6.81
+OR,Oregon,
+OR,Oregon,11.42
+OR,Oregon,10.45
+OR,Oregon,10.32
+OR,Oregon,9.92
+OR,Oregon,7.52
+OR,Oregon,
+OR,Oregon,12.73
+OR,Oregon,11.41
+PA,Pennsylvania,9.97
+PA,Pennsylvania,8.91
+PA,Pennsylvania,6.54
+PA,Pennsylvania,
+PA,Pennsylvania,13.76
+PA,Pennsylvania,6.84
+PA,Pennsylvania,12.52
+PA,Pennsylvania,11.01
+PA,Pennsylvania,7.84
+PA,Pennsylvania,
+PA,Pennsylvania,17.79
+PA,Pennsylvania,9.96
+PA,Pennsylvania,11.86
+PA,Pennsylvania,10.73
+PA,Pennsylvania,8.21
+PA,Pennsylvania,
+PA,Pennsylvania,15.94
+PA,Pennsylvania,7.81
+PA,Pennsylvania,12.57
+PA,Pennsylvania,11.26
+PA,Pennsylvania,7.75
+PA,Pennsylvania,
+PA,Pennsylvania,18.1
+PA,Pennsylvania,10.21
+RI,Rhode Island,18.44
+RI,Rhode Island,15.51
+RI,Rhode Island,16.06
+RI,Rhode Island,
+RI,Rhode Island,22.3
+RI,Rhode Island,19.75
+RI,Rhode Island,19.3
+RI,Rhode Island,16.23
+RI,Rhode Island,17.96
+RI,Rhode Island,
+RI,Rhode Island,23.21
+RI,Rhode Island,17.52
+RI,Rhode Island,23.85
+RI,Rhode Island,20.95
+RI,Rhode Island,19.7
+RI,Rhode Island,
+RI,Rhode Island,28.07
+RI,Rhode Island,21.71
+RI,Rhode Island,21.62
+RI,Rhode Island,17.68
+RI,Rhode Island,18.98
+RI,Rhode Island,
+RI,Rhode Island,27.02
+RI,Rhode Island,17.29
+SC,South Carolina,9.96
+SC,South Carolina,10.67
+SC,South Carolina,6.07
+SC,South Carolina,
+SC,South Carolina,12.86
+SC,South Carolina,0
+SC,South Carolina,10.74
+SC,South Carolina,10.86
+SC,South Carolina,7.13
+SC,South Carolina,
+SC,South Carolina,13.59
+SC,South Carolina,0
+SC,South Carolina,10.82
+SC,South Carolina,10.58
+SC,South Carolina,10.5
+SC,South Carolina,10.39
+SC,South Carolina,6.68
+SC,South Carolina,
+SC,South Carolina,13.68
+SC,South Carolina,0
+SC,South Carolina,6.82
+SC,South Carolina,
+SC,South Carolina,14.13
+SC,South Carolina,0
+SD,South Dakota,12.22
+SD,South Dakota,0
+SD,South Dakota,10.43
+SD,South Dakota,10.15
+SD,South Dakota,8.02
+SD,South Dakota,
+SD,South Dakota,10.44
+SD,South Dakota,10.21
+SD,South Dakota,8.04
+SD,South Dakota,
+SD,South Dakota,12.09
+SD,South Dakota,0
+SD,South Dakota,10.49
+SD,South Dakota,10.16
+SD,South Dakota,8.01
+SD,South Dakota,
+SD,South Dakota,12.32
+SD,South Dakota,0
+SD,South Dakota,11
+SD,South Dakota,10.62
+SD,South Dakota,8.4
+SD,South Dakota,
+SD,South Dakota,13.03
+SD,South Dakota,0
+TN,Tennessee,9.78
+TN,Tennessee,10.87
+TN,Tennessee,5.51
+TN,Tennessee,
+TN,Tennessee,11.07
+TN,Tennessee,0
+TN,Tennessee,10.89
+TN,Tennessee,12.02
+TN,Tennessee,6.55
+TN,Tennessee,
+TN,Tennessee,12.25
+TN,Tennessee,0
+TN,Tennessee,10.69
+TN,Tennessee,11.8
+TN,Tennessee,6.23
+TN,Tennessee,
+TN,Tennessee,12.19
+TN,Tennessee,0
+TN,Tennessee,10.97
+TN,Tennessee,12.13
+TN,Tennessee,6.21
+TN,Tennessee,
+TN,Tennessee,12.54
+TN,Tennessee,0
+TX,Texas,9.14
+TX,Texas,8.72
+TX,Texas,6.12
+TX,Texas,
+TX,Texas,12.11
+TX,Texas,6.59
+TX,Texas,10.16
+TX,Texas,9.05
+TX,Texas,7.13
+TX,Texas,
+TX,Texas,13.76
+TX,Texas,6.82
+TX,Texas,10.04
+TX,Texas,8.82
+TX,Texas,6.6
+TX,Texas,
+TX,Texas,14.46
+TX,Texas,7.3
+TX,Texas,10.05
+TX,Texas,8.81
+TX,Texas,6.26
+TX,Texas,
+TX,Texas,14.94
+TX,Texas,4.35
+UT,Utah,8.34
+UT,Utah,8.13
+UT,Utah,6.19
+UT,Utah,
+UT,Utah,10.43
+UT,Utah,11.21
+UT,Utah,8.8
+UT,Utah,8.39
+UT,Utah,6.84
+UT,Utah,
+UT,Utah,10.84
+UT,Utah,12.38
+UT,Utah,9.03
+UT,Utah,8.51
+UT,Utah,6.99
+UT,Utah,
+UT,Utah,11.2
+UT,Utah,12.28
+UT,Utah,9.03
+UT,Utah,8.46
+UT,Utah,6.84
+UT,Utah,
+UT,Utah,11.33
+UT,Utah,12.07
+VT,Vermont,16.34
+VT,Vermont,16.59
+VT,Vermont,11.38
+VT,Vermont,
+VT,Vermont,19.26
+VT,Vermont,0
+VT,Vermont,16.99
+VT,Vermont,17.29
+VT,Vermont,11.88
+VT,Vermont,
+VT,Vermont,19.93
+VT,Vermont,0
+VT,Vermont,17.53
+VT,Vermont,18
+VT,Vermont,11.27
+VT,Vermont,
+VT,Vermont,20.82
+VT,Vermont,0
+VT,Vermont,18.52
+VT,Vermont,18.88
+VT,Vermont,11.69
+VT,Vermont,
+VT,Vermont,22.14
+VT,Vermont,0
+VA,Virginia,9.14
+VA,Virginia,7.79
+VA,Virginia,6.49
+VA,Virginia,
+VA,Virginia,11.96
+VA,Virginia,8.49
+VA,Virginia,10.75
+VA,Virginia,9.66
+VA,Virginia,7.99
+VA,Virginia,
+VA,Virginia,13.34
+VA,Virginia,10.85
+VA,Virginia,10.68
+VA,Virginia,8.95
+VA,Virginia,8.92
+VA,Virginia,
+VA,Virginia,14.26
+VA,Virginia,10.42
+VA,Virginia,10.79
+VA,Virginia,8.93
+VA,Virginia,8.78
+VA,Virginia,
+VA,Virginia,14.54
+VA,Virginia,9.25
+WA,Washington,8.75
+WA,Washington,9.14
+WA,Washington,5.81
+WA,Washington,
+WA,Washington,10.11
+WA,Washington,9.89
+WA,Washington,9.05
+WA,Washington,9.49
+WA,Washington,6.17
+WA,Washington,
+WA,Washington,10.26
+WA,Washington,10.05
+WA,Washington,10.98
+WA,Washington,10.17
+WA,Washington,9.58
+WA,Washington,9.92
+WA,Washington,6.35
+WA,Washington,
+WA,Washington,10.16
+WA,Washington,10.53
+WA,Washington,6.37
+WA,Washington,
+WA,Washington,11.9
+WA,Washington,10.82
+WV,West Virginia,8.87
+WV,West Virginia,9.5
+WV,West Virginia,6.07
+WV,West Virginia,
+WV,West Virginia,12.15
+WV,West Virginia,0
+WV,West Virginia,9.74
+WV,West Virginia,10.42
+WV,West Virginia,6.74
+WV,West Virginia,
+WV,West Virginia,13.23
+WV,West Virginia,0
+WV,West Virginia,10.26
+WV,West Virginia,11.03
+WV,West Virginia,7.24
+WV,West Virginia,
+WV,West Virginia,14.05
+WV,West Virginia,0
+WV,West Virginia,11.06
+WV,West Virginia,11.64
+WV,West Virginia,7.81
+WV,West Virginia,
+WV,West Virginia,15.1
+WV,West Virginia,0
+WI,Wisconsin,11.01
+WI,Wisconsin,10.95
+WI,Wisconsin,7.63
+WI,Wisconsin,
+WI,Wisconsin,14.52
+WI,Wisconsin,15.12
+WI,Wisconsin,11.95
+WI,Wisconsin,11.85
+WI,Wisconsin,8.49
+WI,Wisconsin,
+WI,Wisconsin,15.62
+WI,Wisconsin,16.55
+WI,Wisconsin,12.72
+WI,Wisconsin,12.76
+WI,Wisconsin,8.68
+WI,Wisconsin,
+WI,Wisconsin,16.88
+WI,Wisconsin,17.21
+WI,Wisconsin,12.72
+WI,Wisconsin,12.65
+WI,Wisconsin,8.52
+WI,Wisconsin,
+WI,Wisconsin,17.22
+WI,Wisconsin,18.35
+WY,Wyoming,8.25
+WY,Wyoming,9.68
+WY,Wyoming,6.83
+WY,Wyoming,
+WY,Wyoming,11.17
+WY,Wyoming,0
+WY,Wyoming,8.24
+WY,Wyoming,9.55
+WY,Wyoming,6.89
+WY,Wyoming,
+WY,Wyoming,11.09
+WY,Wyoming,0
+WY,Wyoming,8.39
+WY,Wyoming,8.94
+WY,Wyoming,7.06
+WY,Wyoming,
+WY,Wyoming,11.46
+WY,Wyoming,0
+WY,Wyoming,9.15
+WY,Wyoming,9.29
+WY,Wyoming,7.96
+WY,Wyoming,
+WY,Wyoming,12.5
+WY,Wyoming,0
